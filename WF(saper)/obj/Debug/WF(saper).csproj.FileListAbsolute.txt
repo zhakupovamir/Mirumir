@@ -1,0 +1,10 @@
+C:\Users\Сабина\Desktop\учеба 2 курс\WF(saper)\WF(saper)\bin\Debug\WF(saper).exe.config
+C:\Users\Сабина\Desktop\учеба 2 курс\WF(saper)\WF(saper)\bin\Debug\WF(saper).exe
+C:\Users\Сабина\Desktop\учеба 2 курс\WF(saper)\WF(saper)\bin\Debug\WF(saper).pdb
+C:\Users\Сабина\Desktop\учеба 2 курс\WF(saper)\WF(saper)\obj\Debug\WF(saper).csprojResolveAssemblyReference.cache
+C:\Users\Сабина\Desktop\учеба 2 курс\WF(saper)\WF(saper)\obj\Debug\WF_saper_.Form1.resources
+C:\Users\Сабина\Desktop\учеба 2 курс\WF(saper)\WF(saper)\obj\Debug\WF_saper_.Properties.Resources.resources
+C:\Users\Сабина\Desktop\учеба 2 курс\WF(saper)\WF(saper)\obj\Debug\WF(saper).csproj.GenerateResource.Cache
+C:\Users\Сабина\Desktop\учеба 2 курс\WF(saper)\WF(saper)\obj\Debug\WF(saper).csproj.CoreCompileInputs.cache
+C:\Users\Сабина\Desktop\учеба 2 курс\WF(saper)\WF(saper)\obj\Debug\WF(saper).exe
+C:\Users\Сабина\Desktop\учеба 2 курс\WF(saper)\WF(saper)\obj\Debug\WF(saper).pdb
