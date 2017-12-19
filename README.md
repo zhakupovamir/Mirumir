@@ -1,2 +1,0 @@
-# Mirumir
-My minesweeper 
